@@ -18,7 +18,7 @@ WL-Box2 (*MAKE SURE YOU CHOOSE Box2, NOT Box1!*)
 
 2.4GHz Gateway
 
-• An upgraded version of WL-Box1
-• Compatible with Mi-Light and MiBoxer 2.4GHz RF series product
-• Smartphone app control
-• Support Third Party Voice Control
+- An upgraded version of WL-Box1
+- Compatible with Mi-Light and MiBoxer 2.4GHz RF series product
+- Smartphone app control
+- Support Third Party Voice Control
