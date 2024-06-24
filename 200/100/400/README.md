@@ -2,6 +2,15 @@
 
 ## 100 - Light bulb sockets
 
+3 x Light Bulb Sockets
+
+
+...
+
+Wiring Scheme:
+
+![wiring-scheme](https://github.com/vanHeemstraSystems/start-finishing/assets/1499433/56fbb064-f8b5-4e26-aacb-d294570dfab8)
+
 
 ## 200 - Cable with switch and power plug
 
